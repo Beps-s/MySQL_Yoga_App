@@ -4,7 +4,7 @@ const mysql = require('mysql');
 const db = mysql.createConnection({
 	host: "localhost",
 	user: "root",
-	password: "qwerty",
+	password: "Qwerty123!",
 	database: "yoga_mysql"
 });
 
